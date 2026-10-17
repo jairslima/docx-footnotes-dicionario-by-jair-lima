@@ -1,0 +1,14 @@
+{
+  "Docker": "Tecnologia de virtualização baseada em contêineres que permite empacotar um aplicativo com todas as suas dependências em uma unidade padronizada.",
+  "Kubernetes": "Plataforma de código aberto para automação de implantação, dimensionamento e gerenciamento de aplicativos em contêineres.",
+  "API": "Interface de Programação de Aplicação, conjunto de rotinas e padrões que permitem a comunicação entre diferentes sistemas de software.",
+  "REST": "Estilo arquitetural para sistemas distribuídos baseado nos padrões da web e do protocolo HTTP.",
+  "Polimorfismo": "Princípio da programação orientada a objetos que permite que classes diferentes respondam à mesma mensagem de maneiras específicas.",
+  "Algoritmo": "Sequência finita de instruções lógicas bem definidas e não ambíguas para resolver um problema ou executar uma tarefa.",
+  "Git": "Sistema de controle de versão distribuído projetado para rastrear alterações em arquivos de código fonte durante o desenvolvimento de software.",
+  "Markdown": "Linguagem de marcação simples com sintaxe de formatação de texto simples que pode ser convertida em HTML e outros formatos.",
+  "CI/CD": "Integração Contínua e Entrega Contínua, práticas de desenvolvimento de software que visam automatizar etapas de build, testes e deploy.",
+  "Recursão": "Método de programação onde uma função chama a si mesma para resolver instâncias menores do mesmo problema.",
+  "JSON": "Notação de Objetos JavaScript, formato leve de intercâmbio de dados fácil de ler e escrever para humanos e máquinas.",
+  "XML": "Linguagem de marcação extensível usada para estruturar e transportar dados em formato de texto legível."
+}
